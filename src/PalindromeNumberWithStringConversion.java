@@ -1,4 +1,4 @@
-public class PalindromeNumber {
+public class PalindromeNumberWithStringConversion {
 
     public boolean isPalindrome(int x) {
         if (x < 0) {
